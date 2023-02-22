@@ -14,3 +14,11 @@ It is written based on JavaScript,
 - 2023/02/21 : Initialized react project.
 - 2023/02/22 : (1st) Built home main ui, domain usecase, repository and socket modules.
 - 2023/02/22 : (2nd) Deleted unused README in src directory.
+
+## Link
+
+If you are interested in information about me or other activities, please access the link below.
+
+| Plugin      | LINK                                     |
+| ----------- | ---------------------------------------- |
+| Github page | [https://aidenkoog.github.io/aidenkoog/] |
