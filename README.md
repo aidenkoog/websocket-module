@@ -12,4 +12,5 @@ It is written based on JavaScript,
 ## Release Note
 
 - 2023/02/21 : Initialized react project.
-- 2023/02/22 : Built home main ui, domain usecase, repository and socket modules.
+- 2023/02/22 : (1st) Built home main ui, domain usecase, repository and socket modules.
+- 2023/02/22 : (2nd) Deleted unused README in src directory.
